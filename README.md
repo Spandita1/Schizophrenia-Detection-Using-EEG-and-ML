@@ -1,0 +1,1 @@
+# Schizophrenia-Detection-Using-EEG-and-ML
